@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/StartMenuLevel.umap",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/PlayerAnim/PlayerAssets/SKM_Player.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/PlayerAssets/SKM_Player.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/PlayerAssets/Ch36_1001_Diffuse.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/PlayerAssets/Ch36_1001_Glossiness.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/PlayerAssets/Ch36_1001_Normal.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/PlayerAssets/Ch36_1001_Specular.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/PlayerAssets/Ch36_Body.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/PlayerAssets/MannequinModel_Anim.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/PlayerAssets/MannequinModel_PhysicsAsset.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/PlayerAssets/MannequinModel_Skeleton.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/PlayerAnim/DeathFromTheBack.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/PlayerAnim/Shooting.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/PlayerAnim/PistolIdle.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/PlayerAnim/PistolWalk.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/Blueprints/WidgetBlueprints/WB_StartMenu.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/Blueprints/GameModes/GM_StartMenu.uasset",
+				"C:/Users/pnworgu/Documents/Unreal Projects/MyProjectSAG235_1/Content/Blueprints/Triggerables/BP_Triggerable.uasset"
+			]
+		}
+	]
+}
